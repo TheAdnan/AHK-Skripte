@@ -19,7 +19,14 @@
 ; Win key + q
 #q::Run https://www.quora.com/search?q=%clipboard%
 
-
 ;Search Youtube from clipboard
 ; Win key + u
 #u::Run https://www.youtube.com/results?search_query=%clipboard%
+
+;Translate from bosnian to english
+; Alt Shift e
+!+e::Run https://translate.google.com/#bs/en/%clipboard%
+
+;Translate from english to bosnian
+; Alt Shift b
+!+b::Run https://translate.google.com/#en/bs/%clipboard%
