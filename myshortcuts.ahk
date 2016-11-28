@@ -6,7 +6,7 @@
 ; Win key + g
 #g::Run C:\Program Files\GIMP 2\bin\gimp-2.8.exe
 
-;Launch Mozilla
+;Launch Mozilla Firefox
 ; Win key + m
 #m::Run firefox.exe
 
@@ -18,3 +18,8 @@
 ;Search Quora from clipboard
 ; Win key + q
 #q::Run https://www.quora.com/search?q=%clipboard%
+
+
+;Search Youtube from clipboard
+; Win key + y
+#y::Run https://www.youtube.com/results?search_query=%clipboard%
