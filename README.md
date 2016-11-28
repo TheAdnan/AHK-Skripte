@@ -5,3 +5,5 @@ My AHK scripts, because I'm lazy for certain tasks
 * Search Stackoverflow from clipboard *(Win key + s)*
 * Search Quora from clipboard *(Win key + q)*
 * Search Youtube from clipboard *(Win key + u)*
+* Translate from Bosnian to English *(Alt + Shift + e)*
+* Translate from English to Bosnian *(Alt + Shift + b)*
