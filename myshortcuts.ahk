@@ -21,5 +21,5 @@
 
 
 ;Search Youtube from clipboard
-; Win key + y
-#y::Run https://www.youtube.com/results?search_query=%clipboard%
+; Win key + u
+#u::Run https://www.youtube.com/results?search_query=%clipboard%
