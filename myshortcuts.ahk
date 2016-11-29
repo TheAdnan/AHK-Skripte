@@ -19,9 +19,9 @@
 ; Win key + q
 #q::Run https://www.quora.com/search?q=%clipboard%
 
-;Search Youtube from clipboard
+;Search subs
 ; Win key + u
-#u::Run https://www.youtube.com/results?search_query=%clipboard%
+#u::Run https://www.google.ba/search?q=%clipboard%+subs+site:opensubtitles.org&ie=utf-8&oe=utf-8&client=firefox-b-ab&gws_rd=cr&ei=v8A9WNfIIomVsgGlp53QAQ
 
 ;Translate from bosnian to english
 ; Alt Shift e
