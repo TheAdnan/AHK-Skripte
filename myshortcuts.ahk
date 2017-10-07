@@ -2,6 +2,10 @@
 ; Win key + n
 #n::Run C:\Program Files\Notepad++\notepad++.exe
 
+;Launch VS Code in current folder
+; Win key + c
+#c::RunWait, %comspec% /c code . ,,Hide
+
 ;Launch GIMP
 ; Win key + g
 #g::Run C:\Program Files\GIMP 2\bin\gimp-2.8.exe
